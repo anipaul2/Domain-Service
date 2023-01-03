@@ -1,13 +1,2 @@
-## Running React on Repl.it
-
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
-
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
-
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+Voters Name Service is a domain-based project where users can able to mint domain with ending as (".voter") and will also be rewarded with the domain name as an nft.
+Here's the link to submission in hackathon with a demo:- https://devfolio.co/projects/ethernals-name-service-as-nft-1582
